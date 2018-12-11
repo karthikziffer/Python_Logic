@@ -1,0 +1,2 @@
+# Python_Logic
+Assignment: Python program to determine if the digits of a number can be divided into three continuous parts such that the third part is the sum of the other two. e.g. 99101200 can be divided because 99 + 101 = 200. The sum will always be at the end . The number can be of arbitrary length. Make sure you use python and write the function which returns True if it can be separated into three such parts.
